@@ -359,19 +359,19 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.   5562.7 avail Mem
 Linux codespaces-808dcf 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
-11. What is the available free memory in the system. ***(1 mark)*** .
+11. What is the available free memory in the system. ***(1 mark)*** 5.4Gi.
 
-12. What is the available disk space mounted on /workspace. ***(1 mark)*** .
+12. What is the available disk space mounted on /workspace. ***(1 mark)*** 17,515,092 kilobytes.
 
-13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** .
+13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** Linux codespaces-808dcf,version 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP hardware architecture x86_64 x86_64 x86_64 GNU/Linux.
 
-14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** .
+14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** The **ls** command lists files and directories in a directory, while **ls -asl** lists files and directories in a directory in long format (-l) with detailed information, including file permissions, owner, group, size, and modification date, and sorted by size (-s) in descending order.
 
-15. What is the TLB size of the Virtual CPU. ***(1 mark)*** .
+15. What is the TLB size of the Virtual CPU. ***(1 mark)*** 2560 4K pages.
 
-16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** .
+16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** 2.92 GHz for processor 0 and approximately 2.91 GHz for processor 1.
 
-17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** .
+17. What is the top running process that consumes the most CPU cycles. ***(1 mark)***  PID 8295.
 
 ## Running your own container instance.
 
