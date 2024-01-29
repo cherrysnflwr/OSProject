@@ -24,7 +24,7 @@ Team Mates:
 
 ***Questions:***
 
-1. What is the link of the fork OSProject in your repository. ***(1 mark)*** __joeynor/OSProject__.
+1. What is the link of the fork OSProject in your repository. ***(1 mark)*** __cherrysnflwr/OSProject__.
 2. How many files and folders are in this repository. ***(1 mark)*** __1 file (README.md) and 1 folder (Images)__.
 
 
