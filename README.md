@@ -1,6 +1,6 @@
 # OSProject Running Containers for Application Development
 
-Group Name: __Galeya__. 
+Group Name: __OS Overlords__. 
 
 Section: __3__. 
 
